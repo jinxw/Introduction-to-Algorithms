@@ -10,6 +10,10 @@
 
 ## 第六部分  图算法
 
+### 第 22 章  基本的图算法
+
+- 22.2  [广度优先搜索](https://github.com/jinxw/Introduction-to-Algorithms/tree/master/广度优先搜索)
+
 ### 第 24 章  单源最短路径
 
 - 24.3  [Dijkstra 算法](https://github.com/jinxw/Introduction-to-Algorithms/tree/master/Dijkstra%20算法)
