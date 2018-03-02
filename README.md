@@ -8,6 +8,12 @@
 
 - 4.1  [最大子数组问题](https://github.com/jinxw/Introduction-to-Algorithms/tree/master/最大子数组问题)
 
+## 第四部分  高级设计和分析技术
+
+### 第 15 章  动态规划
+
+- 15.1  [钢条切割](https://github.com/jinxw/Introduction-to-Algorithms/tree/master/钢条切割)
+
 ## 第六部分  图算法
 
 ### 第 22 章  基本的图算法
