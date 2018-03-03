@@ -13,6 +13,7 @@
 ### 第 15 章  动态规划
 
 - 15.1  [钢条切割](https://github.com/jinxw/Introduction-to-Algorithms/tree/master/钢条切割)
+- 15.4  [最长公共子序列](https://github.com/jinxw/Introduction-to-Algorithms/tree/master/最长公共子序列)
 
 ## 第六部分  图算法
 
